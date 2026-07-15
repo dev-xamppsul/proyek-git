@@ -14,3 +14,7 @@ folder git ini isinya latihan tentang git
 4 identitas git saya berupa user.email && user.name
 5 file readme.md telah dibuat dengan judul dan deskripsi
 6 file readme.md masih diluar stage area/diluar track stage area
+
+### Bagian B
+1. file readme.md sudah ditambahakan ke stage area
+2. sebelum readme.md dimasukan kedalam stage area,file readme.md berada di luar track dari stage area tersebut dan yang diluar track/untrack bukan hanya sekedar file readme.md melainkan ada 2 folder yaitu bagian-a dan bagian-b masih dalam keadaan untrack atau diluar dari stage area
