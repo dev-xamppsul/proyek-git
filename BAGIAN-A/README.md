@@ -38,7 +38,7 @@ folder git ini isinya latihan tentang git
 6. git branch -a
 7. git switch master && git merge fitur-navbar
 
-### Bagiand D
+### Bagian D
 1. repository telah dibuat: proyek-git
 2. git remote add <name> <url>
 3. git remote -v
