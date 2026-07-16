@@ -22,7 +22,9 @@ folder git ini isinya latihan tentang git
 4. riwayat commit ditampilkan via git log
 5. index html sudah dibuat dengan menggunakan perintah touch index.html dan mengisi file html.
 
+```bash
 =====================6==========================
 pada saat di stage readme mendapatkan perubahan berupa perpindahan posisi file dari luar folder BAGIAN-A ke dalam folder BAGIAN-A
 ================================================
+```
 7. log ditampilkan per baris commit menggunakan perintah git log
