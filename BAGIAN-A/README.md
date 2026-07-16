@@ -23,8 +23,25 @@ folder git ini isinya latihan tentang git
 5. index html sudah dibuat dengan menggunakan perintah touch index.html dan mengisi file html.
 
 ```bash
-=====================6==========================
-pada saat di stage readme mendapatkan perubahan berupa perpindahan posisi file dari luar folder BAGIAN-A ke dalam folder BAGIAN-A
+================================================
+6. pada saat di stage readme mendapatkan perubahan berupa perpindahan posisi file dari luar folder BAGIAN-A ke dalam folder BAGIAN-A
 ================================================
 ```
 7. log ditampilkan per baris commit menggunakan perintah git log
+
+### Bagian C
+1. git branch fitur-navbar
+2. git checkout fitur-navbar
+3. menambahkan elemen navbar di index.html dan git commit -m "isi pesannya"
+4. git branch fitur-footer
+5. git switch fitur-footer
+6. git branch -a
+7. git switch master && git merge fitur-navbar
+
+### Bagiand D
+1. repository telah dibuat: proyek-git
+2. git remote add <name> <url>
+3. git remote -v
+4. git push <remote> master
+5. git push <remote> fitur-footer
+6. melakukan commit melalui remote repository dan pull di local untuk melihat riwayat komit di local setelah pull dari remote
